@@ -2,7 +2,7 @@
 
 I'm Milan. You can find me on [Twitter](https://twitter.com/L1NU5_) if you want to get in contact.
 
-- 🔭 I’m currently working on .NET Core and Sitecore
+- 🔭 I’m currently working with .NET Core and .NET 6
 - 🌱 I’m currently learning Domain-Driven Design and Software Architecture
 - 💬 Ask me about anything
 - 😄 Pronouns: he/him
