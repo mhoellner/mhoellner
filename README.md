@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm Milan. You can find me on [Twitter](https://twitter.com/L1NU5_) if you want to get in contact.
+I'm Milan. You can find me on <a href="https://mastodon.online/@l1nu5_" rel="me" target="_blank">Mastodon</a> if you want to get in contact.
 
-- 🔭 I’m currently working with .NET Core and .NET 6
+- 🔭 I’m currently working with .NET 6 on OKD
 - 🌱 I’m currently learning Domain-Driven Design and Software Architecture
 - 💬 Ask me about anything
 - 😄 Pronouns: he/him
