@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Milan. You can find me on [Mastodon](https://mastodon.online/@l1nu5_) if you want to get in contact.
+I'm Milan. You can find me on [Mastodon](https://hachyderm.io/@mhoellner) if you want to get in contact.
 
 - 🔭 I’m currently working with .NET 6 on OKD
 - 🌱 I’m currently learning Domain-Driven Design and Software Architecture
